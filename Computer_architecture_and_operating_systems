@@ -1,0 +1,1 @@
+Course on computer architecture, its impact on high-level computation, and low-level structure of the program: processes and threads, compiling and linking. Introduction to machine code and to assembly programming. 
